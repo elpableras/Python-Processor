@@ -1,0 +1,19 @@
+<lws id="personal">
+	<bloque id="titulo">
+		<encabezado id="encabezado1">Pagina Personal</encabezado>				
+	</bloque>
+	<bloque id="cuerpo">
+		<texto id="texto1">Esta es la pagina personal, para la asignatura</texto>
+		<texto id="texto2">de Arquitectura Software y Procesamiento de Lenguajes</texto>
+		<texto id="texto3">para la parte 5 de Lenguaje Web Simple</texto>
+		<texto id="texto4">utilizando para ello Tkinter en Python</texto>
+		<texto id="texto5">sobre el entorno de Eclipse</texto>
+		<combo id="combo1">Elige la Puntuacion de la Pagina</combo>
+		<imagen id="imagen1" ruta="euitio.png">Imagen EUITIO</imagen>
+		<rboton id="radioboton1">Le gusto</rboton>		
+	</bloque>
+	<bloque id="pie">
+		<input id="input1" mensaje="UO173780@uniovi.es">Informacion Autor</input>
+		<enlace ruta="index2.lws" id="enlace">Volver</enlace>
+	</bloque>	
+</lws>

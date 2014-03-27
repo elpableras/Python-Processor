@@ -1,0 +1,14 @@
+<lws>
+	<bloque>
+		<texto>Hola Mundo</texto>
+		<enlace ruta="dos.lws">Abrir</enlace>
+	</bloque>
+	<bloque>
+		<texto>Hola Mundo</texto>
+		<enlace ruta="dos.lws">Abrir</enlace>
+	</bloque>
+	<bloque>
+		<texto>Hola Mundo</texto>
+		<enlace ruta="dos.lws">Abrir</enlace>
+	</bloque>
+</lws>

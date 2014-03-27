@@ -1,0 +1,11 @@
+texto1:color:red
+texto1:alineacion:izquierda
+texto1:dimensiones:1,15
+enlace1:alineacion:abajo
+principal:dimensiones:400,400
+bloque1:dimensiones:300,300
+texto1:fuente:Helvetica
+texto1:justificacion:derecha
+encabezado1:padding:20,20
+input1:borde:8
+encabezado1:color:blue

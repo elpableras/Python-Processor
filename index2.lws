@@ -1,0 +1,13 @@
+<lws id="principal">
+	<bloque id="bloque1">
+		<encabezado id="encabezado1">Encabezado</encabezado>		
+		<texto id="texto1">Hola Mundo</texto>				
+		<combo id="combo1">Elige la Puntuacion</combo>
+		<rboton id="radioboton1">uno</rboton>				
+		<enlace id="enlace1" ruta="personal.lws">Ir Pagina Personal</enlace>		
+	</bloque>
+	<bloque id="bloque2">		
+		<input id="input1" mensaje="Soy una pantalla nueva">Pulsame!!!</input>
+		<imagen id="imagen1" ruta="euitio.png">Imagen EUITIO</imagen>		
+	</bloque>	
+</lws>
